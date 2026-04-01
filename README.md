@@ -14,10 +14,12 @@ The datasets are from a companion website for the book *Modeling Online Auctions
 * **Scope:** The dataset includes opening bids, individual bid increments, bidder reputation scores, and the final hammer price.
 
 ## Areas of exploration
-My focus during this internship project was to look at three specific possibilities for data-driven insights:
+My focus during this project is to look at three specific possibilities for data-driven insights:
 
-1.  **Price discovery and estimates:** Examining the relationship between the starting bid and the final result. I wanted to see if lower opening prices consistently lead to more "bidding wars" compared to starting closer to a fair market value.
-2.  **Temporal behavior (Sniping):** Identifying what percentage of activity happens in the final minutes of a sale.  Understanding this "climax" can help an auction house decide if they should implement features like "soft-closes" or "dynamic endings."
+1. **Temporal behavior (Sniping):** Identifying what percentage of activity happens in the final minutes of a sale.  Understanding this "climax" can help an auction house decide if they should implement features like "soft-closes" or "dynamic endings."
+
+2.  **Price discovery and estimates:** Examining the relationship between the starting bid and the final result. I wanted to see if lower opening prices consistently lead to more "bidding wars" compared to starting closer to a fair market  
+
 3.  **Bidder engagement:** Using bidder reputation scores as a proxy for experience. This helps in understanding if a specific category is attracting seasoned collectors or new, casual buyers.
 
 ## Reflection
